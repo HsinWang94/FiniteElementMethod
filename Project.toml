@@ -1,0 +1,4 @@
+name = "FiniteElementMethod"
+uuid = "e211421c-69b2-4e6d-ad12-f593f001fce5"
+authors = ["HsinWang94 <wangxin94xz@outlook.com>"]
+version = "0.1.0"
